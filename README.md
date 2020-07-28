@@ -1,6 +1,26 @@
 # Powershell 7.0.3
 
 
+## Switch to powershell in terminal:
+
+pwsh
+
+
+## Outputting text:
+
+echo 'This is a sentence.' # Or with "This is a sentence."
+
+
+## Or:
+
+Write-Host 'This is a sentence."
+
+
+## Two sentences one after the other:
+
+echo 'This is the first sentence.'; echo 'This is the second sentence.'
+
+
 ## Updating powershell on Mac:
 
 brew update

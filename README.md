@@ -5,6 +5,8 @@
 
 pwsh
 
+[The Ultimate List of Every Known Command Prompt and PowerShell Command](https://www.majorgeeks.com/content/page/the_ultimate_list_of_every_known_command_prompt_command.html)
+
 
 ## Outputting text:
 
